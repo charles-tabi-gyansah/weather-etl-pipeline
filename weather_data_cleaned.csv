@@ -1,0 +1,5 @@
+City,Temperature_C,Humidity_%,Weather_Condition,Wind_Speed_mps,Date_Time
+Lagos,23.3,93,overcast clouds,2.38,2026-07-17 23:10:20
+Accra,24.31,83,broken clouds,3.97,2026-07-17 23:12:33
+Nairobi,14.7,84,broken clouds,1.24,2026-07-17 23:11:41
+London,18.61,80,clear sky,2.24,2026-07-17 23:07:00
